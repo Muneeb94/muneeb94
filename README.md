@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi, I'm Syed Muneeb ur Rehman 👋
 
-<!--
-**Muneeb94/muneeb94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Software Engineer · Android Developer · Frontend Developer** — 7+ years building scalable, high-performance mobile and web applications.
 
-Here are some ideas to get you started:
+📍 Karachi, Pakistan · 💼 Currently Android Developer @ Al-Raqtan (smc) Pvt Ltd
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 About Me
+- 🤖 **Android** engineer working with Kotlin, Java, MVVM, Coroutines & Flow, Material 3
+- 💻 **Frontend** developer with React.js, Next.js, Redux & modern JS
+- 🏗️ Experienced with REST APIs, Firebase, CameraX/ML Kit, and clean architecture
+- 🧪 Agile / Scrum, Git-based workflows, CI-ready release pipelines
+- ⚡ Leveraging AI-assisted development (Claude Code, Cursor AI) for productivity
+
+### 🎓 Education
+- **MS Computer Science (MSCS)** — National University of Computer & Emerging Sciences (FAST), 2024 ✅ *Completed*
+- **BS Software Engineering (BSSE)** — University of Karachi, 2018
+
+### 🛠️ Tech Stack
+
+**Android:** Kotlin · Java · MVVM · LiveData · ViewModel · Room · Retrofit · Coroutines · Firebase · Material Design · Dependency Injection
+
+**Frontend:** React.js · Next.js · Redux Toolkit · JavaScript ES6 · Material UI · Tailwind CSS · Chakra UI · Bootstrap · SCSS
+
+**Tools & AI:** Git · Gradle · Claude Code · Cursor AI · Prompt Engineering
+
+### 💼 Experience Highlights
+- **Raqtan HRM** — attendance app with live geofencing, QR verification & selfie face detection (CameraX, ML Kit, GPS)
+- **QavaShop** — e-commerce app with biometric login, BNPL split-payment & bilingual (EN/AR) UI
+- **SphereY Pro** — field-service app with in-app video recording, upload & Android 16 KB-page compliance
+- **Ekuep** — large-scale bilingual e-commerce platform & admin panel (JS, jQuery, SCSS, Laravel Blade)
+
+### 📫 Connect
+- 📧 s.muneeb96@gmail.com
+- 💼 [LinkedIn](https://linkedin.com/in/syed-muneeb-ur-rehman)
