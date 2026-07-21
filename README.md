@@ -23,7 +23,7 @@
 
 **Frontend:** React.js · Next.js · Redux Toolkit · JavaScript ES6 · Material UI · Tailwind CSS · Chakra UI · Bootstrap · SCSS
 
-**Tools & AI:** Git · Gradle · Claude Code · Cursor AI · Prompt Engineering
+**Tools & AI:** Git · Claude Code · Cursor AI · Prompt Engineering . Chat Gpt
 
 ### 💼 Experience Highlights
 - **Raqtan HRM** — attendance app with live geofencing, QR verification & selfie face detection (CameraX, ML Kit, GPS)
